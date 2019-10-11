@@ -1,8 +1,7 @@
 # TUGAS 3 ASISTENSI PBO - Jumat, 4 Oktober 2019
 
-NAMA: `isi nama disini`
-
-NRP: `isi nrp disini`
+NAMA: wicaksono leksono muhamad
+NRP: 0611840000088
 
 ## Deskripsi Soal
 Buat class **LinearEquation** untuk sistem persamaan linear 2x2:
