@@ -39,6 +39,7 @@ Input 	: 12 5 13 0 12 7
 Output	: ...
 
 
+
 Input 	: -18 9 10,5 11 0 0
 
 Output	: ...
@@ -47,10 +48,15 @@ Output	: ...
 ### 1 extra mile
 soal opsional, tapi selesaikan semua soal di atas terlebih dahulu
 
-![](/img/3.png)
+![image](https://user-images.githubusercontent.com/56147147/66630132-c12ac580-ec2d-11e9-9787-b9b1165936c9.png)
 
 ## Screenshot hasil
-masukkan screenshot output disini
+![image](https://user-images.githubusercontent.com/56147147/66629893-3cd84280-ec2d-11e9-8033-8808f9a92d9b.png)
+
+![image](https://user-images.githubusercontent.com/56147147/66630008-8032b100-ec2d-11e9-8edc-34095b569d8e.png)
+
+
+
 
 ## Upload
 upload seluruh folder project java-nya ke repository ini
