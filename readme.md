@@ -51,7 +51,7 @@ soal opsional, tapi selesaikan semua soal di atas terlebih dahulu
 ![image](https://user-images.githubusercontent.com/56147147/66630132-c12ac580-ec2d-11e9-9787-b9b1165936c9.png)
 
 ## Screenshot hasil
-![image](https://user-images.githubusercontent.com/56147147/66629893-3cd84280-ec2d-11e9-8033-8808f9a92d9b.png)
+![image](https://user-images.githubusercontent.com/56147147/66630392-62198080-ec2e-11e9-8e83-624607deac0f.png)
 
 ![image](https://user-images.githubusercontent.com/56147147/66630008-8032b100-ec2d-11e9-8edc-34095b569d8e.png)
 
